@@ -15,7 +15,7 @@ public interface TopicoRepository extends JpaRepository<Topico, Long>{//entidade
 	 * Topico>Curso>Nome -> findByCurso_Nome
 	 * utilizar o "_" para tirar ambiguidade entre atributo e relacionamento
 	 * No caso o Spring entende como relacionamento.
-	 * 	 * */
+	 * 	 ** */
 	
 																											
 
